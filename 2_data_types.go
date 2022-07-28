@@ -41,4 +41,9 @@ func main() {
 	//mix var declaration
 	var v1, v2, v3 = 5, "name", 6.78
 	fmt.Println(v1, " , ", v2, " , ", v3)
+
+	//DECLARATION AND ASSIGNMENT
+	declareAndAssign := 5
+	fmt.Println(declareAndAssign)
+
 }
